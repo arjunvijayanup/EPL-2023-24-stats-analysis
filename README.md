@@ -103,7 +103,3 @@ All tables and figures are generated in the `figures/` directory. Please view th
 ## Author
 
 Arjun Vijay Anup
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.

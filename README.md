@@ -85,7 +85,7 @@ quarto render EPL-2023-24-stats-analysis.qmd --to pdf
 
 ### Part 3: Custom Functions and S3 Methods
 
-- **Function **``: Constructs an S3 object encapsulating player data.
+- **Function**: Constructs an S3 object encapsulating player data.
   - **Methods**:
     - `print()`: Nicely formatted console output.
     - `summary()`: Summary statistics for the S3 object.

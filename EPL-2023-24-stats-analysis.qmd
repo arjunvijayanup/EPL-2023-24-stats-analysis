@@ -1,5 +1,5 @@
 ---
-title: "STAT30340 Data Programming with R - Final Project"
+title: "EPL 2023/24 Premier League Stats Analysis"
 author: "Arjun Vijay Anup"
 format: 
   pdf:

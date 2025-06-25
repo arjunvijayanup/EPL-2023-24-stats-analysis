@@ -1,6 +1,6 @@
 ---
 title: "STAT30340 Data Programming with R - Final Project"
-author: "Arjun Vijay Anup (24215155)"
+author: "Arjun Vijay Anup"
 format: 
   pdf:
     toc: true       

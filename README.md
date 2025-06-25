@@ -61,7 +61,6 @@ quarto render EPL-2023-24-stats-analysis.qmd --to pdf
 ├── data/
 │   └── 2023_24_PL_Player_Stats.xlsx
 ├── R/
-│   └── eplstats/        # Custom R package
 ├── figures/             # Generated plots
 ├── EPL-2023-24-stats-analysis.qmd
 └── README.md
